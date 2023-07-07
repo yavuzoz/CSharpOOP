@@ -52,7 +52,7 @@ namespace WindowsFormsAppGame
 
         private void EnemySoul_Click(object sender, EventArgs e)
         {
-           
+            MessageBox.Show($" you have to the enemy  {player1.AttackPower} attacked !");
         }
 
         private void btnAttack_Click(object sender, EventArgs e)
