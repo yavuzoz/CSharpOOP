@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppGame", "Wind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{DCD02F6C-3EBC-4E20-B885-3C24D02E28FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorSoccerScore", "ConstructorSoccerScore\ConstructorSoccerScore.csproj", "{64AE190A-950F-401E-A753-238BC23F2A6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DCD02F6C-3EBC-4E20-B885-3C24D02E28FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCD02F6C-3EBC-4E20-B885-3C24D02E28FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCD02F6C-3EBC-4E20-B885-3C24D02E28FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AE190A-950F-401E-A753-238BC23F2A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AE190A-950F-401E-A753-238BC23F2A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AE190A-950F-401E-A753-238BC23F2A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AE190A-950F-401E-A753-238BC23F2A6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
